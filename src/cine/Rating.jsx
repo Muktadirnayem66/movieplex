@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import Star from '../assets/star.svg'
 
 const Rating = ({value}) => {
